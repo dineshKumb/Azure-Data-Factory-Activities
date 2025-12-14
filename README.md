@@ -120,5 +120,12 @@ The solution reacts to file-arrival events, orchestrates sequential pipeline exe
 
 ---
 
-## 📬 Contact
-For discussion or collaboration, reach out via LinkedIn or GitHub.
+<img width="602" height="155" alt="Picture5" src="https://github.com/user-attachments/assets/93f4722d-400f-4505-9be1-f8bb797b8a60" />
+<img width="1379" height="491" alt="Picture6" src="https://github.com/user-attachments/assets/5ae89a79-755c-4418-afc9-b70c911153d9" />
+<img width="1059" height="352" alt="Picture2" src="https://github.com/user-attachments/assets/d8fa2a31-111a-4dc2-9ddb-b25f04af5c88" />
+<img width="1076" height="294" alt="Picture3" src="https://github.com/user-attachments/assets/d28af570-6679-4c47-9426-5d473e2882e1" />
+<img width="1034" height="262" alt="Picture0" src="https://github.com/user-attachments/assets/fa0c8f8b-a795-4277-8e30-8c84e49ae770" />
+<img width="2020" height="412" alt="Picture1" src="https://github.com/user-attachments/assets/e93a7115-0fe2-4149-88e6-7159daeac4ac" />
+<img width="1684" height="622" alt="Picture4" src="https://github.com/user-attachments/assets/3c1aec97-cfcb-43e5-a766-be1959890f7d" />
+
+
